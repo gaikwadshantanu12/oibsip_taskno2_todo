@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Todo App</string>
+
+    <!-- Activity Main -->
+    <string name="start_your_journey">Start Your Journey</string>
+
+    <!-- Activity Login -->
+    <string name="hint_email">Enter your email id</string>
+    <string name="hint_password">Enter account password</string>
+    <string name="login_btn">Login My Account</string>
+    <string name="move_to_sign_text">New User ? Signup here.</string>
+
+    <!-- Activity Signup -->
+    <string name="hint_name">Enter full name</string>
+    <string name="hint_confirm_password">Confirm account password</string>
+    <string name="signup_btn">Create Account</string>
+    <string name="move_to_login_text">Already signup ? Login here.</string>
+
+    <!-- Custom Alert Dialog for Notes -->
+    <string name="add_update_notes">Add New Notes</string>
+    <string name="hint_notes_title">Notes Title</string>
+    <string name="hint_notes_description">Notes Description</string>
+    <string name="hint_note_of_operation">Note : Click to save and abort to cancel</string>
+
+    <!-- Custom Alert Dialog for TODO -->
+    <string name="update_todo">Update TODO</string>
+    <string name="hint_todo_name">TODO Name</string>
+
+    <!-- Custom Alert Dialog for Edit Profile -->
+    <string name="update_profile">Update Profile</string>
+
+    <!-- Todo Fragment -->
+    <string name="add_new_task">Add New Task</string>
+    <string name="daily_routine">To Your Daily Routine</string>
+    <string name="todo_title_hint">TODO Title</string>
+    <string name="add_todo_button">Add TODO</string>
+    <string name="note_of_operation">Note : Tap to perform operations</string>
+
+    <!-- Notes Fragment -->
+    <string name="all_notes">All Your Notes</string>
+    <string name="add_notes">Add Notes</string>
+
+    <!-- Settings Fragment -->
+    <string name="account_details">Account Details</string>
+    <string name="delete_account_btn">Delete Account</string>
+    <string name="edit_profile_btn">Edit Profile</string>
+    <string name="logout_btn">Logout</string>
+    <string name="more_options">More Options</string>
+    <string name="your_name">Your Name</string>
+    <string name="your_email">Your Email ID</string>
+</resources>
